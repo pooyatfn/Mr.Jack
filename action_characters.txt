@@ -1,0 +1,8 @@
+SH 3
+JW 3
+JS 3
+IL 3
+MS 4
+SG 3
+WG 3
+JB 3
