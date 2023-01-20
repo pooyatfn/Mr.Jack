@@ -5,6 +5,8 @@ During each turn, the players move the characters, using their special powers an
 
 ![map](https://user-images.githubusercontent.com/98226980/213735441-01b64d13-2711-4ee7-9ec0-025c4eea7d8e.png)
 
+![action](https://user-images.githubusercontent.com/98226980/213740431-535fdd63-ab13-4dae-9bd1-d3dc4ca5a028.png)
+
 
 you can save your game in a file and load it later to continue playing.
 
